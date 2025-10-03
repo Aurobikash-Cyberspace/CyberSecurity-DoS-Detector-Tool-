@@ -1,4 +1,3 @@
-🐍 dos_detector.py
 
 #!/usr/bin/env python3
 import socket
